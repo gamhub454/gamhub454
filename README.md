@@ -16,3 +16,6 @@
 * **Web Dev**: Traffic Growth & SEO Strategy (流量引導策略)
 
 ![Gamehub Stats](https://github-readme-stats.vercel.app/api?username=gamhub454&show_icons=true&theme=dark)
+
+
+[![Discord](https://img.shields.io/badge/Discord-%E5%8A%A0%E5%85%A5%E7%A4%BE%E7%BE%A4-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/H9qsdN5gaB)
