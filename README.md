@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm gamhub454
+### 👋 Hi there, I'm gamehub454
 **MapleStory V113 Developer & Server Owner based in Taiwan.**
 (專注於 V113 私服技術研究與資源導航的開發者)
 
